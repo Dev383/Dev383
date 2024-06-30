@@ -30,5 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev383&" alt="Dev383" /></p>
 
-<p>![](https://leetcard.jacoblin.cool/dev21383?ext=heatmap)</p>
-<p>![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dev_PRTP)</p>
+![](https://leetcard.jacoblin.cool/dev21383?ext=heatmap)
+<br>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dev_PRTP)
