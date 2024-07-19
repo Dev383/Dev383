@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Pratap</h1>
-<h3 align="center">A passionate C++/Python Developer</h3>
+<h3 align="center">A passionate C++/Python Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev383&label=Profile%20views&color=0e75b6&style=flat" alt="dev383" /> </p>
 
