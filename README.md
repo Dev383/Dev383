@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Software Engineer @ **Opstree Global**
+- 🚀 SDE @ **Amazon**
 - 🎓 B.Tech CSE + Economics, **IIIT Delhi**
 - 🤖 Building **AI-powered backend & data systems**
 - ⚙️ Obsessed with **performance, scale & automation**
